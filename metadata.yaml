@@ -1,0 +1,35 @@
+_repo: The-Social-Gangster_33466
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Foster, Will
+    gutenberg_agent_id: '33952'
+    url: http://www.gutenberg.org/2009/agents/33952
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reeve, Arthur B. (Arthur Benjamin)
+    alias: Reeve, Arthur Benjamin
+    birthdate: 1880
+    deathdate: 1936
+    gutenberg_agent_id: '752'
+    url: http://www.gutenberg.org/2009/agents/752
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_B._Reeve
+description: ''
+gutenberg_issued: '2010-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33466'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Chemistry teachers -- Fiction'
+title: The Social Gangster
+url: http://www.gutenberg.org/ebooks/33466
